@@ -1,0 +1,12 @@
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\bin\Debug\Modern DataGridView Design.exe.config
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\bin\Debug\Modern DataGridView Design.exe
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\bin\Debug\Modern DataGridView Design.pdb
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.csproj.AssemblyReference.cache
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern_DataGridView_Design.Form1.resources
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern_DataGridView_Design.Properties.Resources.resources
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.csproj.GenerateResource.cache
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.csproj.CoreCompileInputs.cache
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.exe
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern DataGridView Design.pdb
+C:\Users\trukafatsum\source\repos\Modern DataGridView Design\Modern DataGridView Design\obj\Debug\Modern_DataGridView_Design.UCRow.resources
