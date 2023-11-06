@@ -2,6 +2,8 @@
 
 **`Software Developer`**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trukafatsum&label=Profile%20views&color=0e75b6&style=flat" alt="trukafatsum" /> </p>
+
  I'm someone who has recently stepped into the world of software development. Currently, I'm learning the C# programming language along with the .NET Framework and working with MSSQL databases. 
 
 Alongside this, I have an interest in graphic design and am cultivating my skills by creating amateur works using tools such as Adobe Photoshop and Illustrator.
@@ -22,17 +24,24 @@ Gaming is a passion of mine. I share my experiences in gaming content on YouTube
 <h3> 🧰 Languages and Tools <h3/>
   
   <a href="https://docs.github.com/get-started" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40px" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40px" height="40" style="padding-right:10px" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="padding-right:10px" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="padding-right:10px" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="padding-right:10px" />
   </a>
+  <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="adobe-photoshop" width="40" height="40" style="padding-right:10px" />
+  </a>
+  <a href="https://www.adobe.com/tr/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="adobe-illustrator" width="40" height="40" style="padding-right:10px" />
+  </a>
+  
 <br />
 
 ------
