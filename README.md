@@ -1,4 +1,4 @@
-# 🏄‍♂ Mustafa KURT
+# 🏄‍♂ Mustafa Kurt
 
 **`Software Developer`**
 
